@@ -1,6 +1,3 @@
-Geospatial Front Irradiance Effect Study
+PVRW 2025 Geospatial Study of Diffuse Stowing vs Tracker Wear, Riccardo Adinolfi
 
-This repository tracks down geospatial 'artifact' that occur when doing multi-latitude modeling, due to slight offsets from latitude not accounted for in sun position and tracking. 
-It uses NREL's geospatial modeling tool PVDeg
-
-More forthcoming
+Uses PVDeg. Not the latest version for poster, exploratory.
